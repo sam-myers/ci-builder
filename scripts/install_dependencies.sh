@@ -2,3 +2,4 @@
 
 apk update
 apk add curl
+apk add git
