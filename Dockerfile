@@ -41,7 +41,7 @@ RUN ALPINE_GLIBC_BASE_URL="https://github.com/sgerrand/alpine-pkg-glibc/releases
 
 ENV HUGO_VERSION="0.36.1" \
     NOMAD_VERSION="0.8.6" \
-    TERRAFORM_VERSION="0.11.7" \
+    TERRAFORM_VERSION="0.11.8" \
     VAULT_VERSION="0.11.1"
 
 COPY install-scripts install-scripts
